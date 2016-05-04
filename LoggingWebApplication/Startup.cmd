@@ -1,0 +1,1 @@
+﻿net use Z: \\smb3share.file.core.windows.net\myfileshare /u:smb3share sOVBFwTBk+Fej0YqEKkkWlIAHlbfeNX5GKkGJwDLISpEruxIALrfF/RqHigvee70witak/q4gcN2O5WmyCP0yQ==
